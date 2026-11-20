@@ -7,7 +7,7 @@ Este repositorio aloja **únicamente los ejecutables actualmente publicados**. E
 | Programa | Versión disponible | Enlace |
 |---|---|---|
 | **Digimon Pendulum PC** | **0.61.0 Preview** · Windows x64 | [Descargar EXE portátil](https://github.com/xGonzalooo/Pendulum-PC-Update/releases/download/v0.61.0-preview/Digimon-Pendulum-PC-0.61.0-portable.exe) |
-| **BOSSES PENDULUM PC** | **1.0.1 Preview** · Herramienta de eventos globales | [Ver publicación](https://github.com/xGonzalooo/Pendulum-Companion/releases/tag/bosses-v1.0.1-preview) |
+| **BOSSES PENDULUM PC** | **1.0.1 Preview** · Herramienta de eventos globales | [Ver publicación](https://github.com/xGonzalooo/Pendulum-PC-Update/releases/tag/bosses-v1.0.1-preview) |
 
 El administrador **BOSSES** es una herramienta separada y no es necesaria para la crianza normal del Digimon.
 
