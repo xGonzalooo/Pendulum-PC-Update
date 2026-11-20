@@ -1,15 +1,22 @@
-# Digimon Pendulum PC — Actualizaciones
+# Digimon Pendulum PC — Descargas oficiales (fan-made)
 
-Repositorio público de **distribución de ejecutables** para Digimon Pendulum PC, proyecto fan no oficial.
+Este repositorio aloja **únicamente los ejecutables actualmente publicados**. El código fuente, las partidas y las credenciales no se distribuyen aquí.
 
-## Descargar
+## Versiones actuales
 
-Las versiones de Windows x64 se publicarán en **[Releases](https://github.com/xGonzalooo/Pendulum-PC-Update/releases)**, con notas de versión y verificación SHA-256.
+| Programa | Versión disponible | Enlace |
+|---|---|---|
+| **Digimon Pendulum PC** | **0.61.0 Preview** · Windows x64 | [Descargar EXE portátil](https://github.com/xGonzalooo/Pendulum-PC-Update/releases/download/v0.61.0-preview/Digimon-Pendulum-PC-0.61.0-portable.exe) |
+| **BOSSES PENDULUM PC** | **1.0.1 Preview** · Herramienta de eventos globales | [Ver publicación](https://github.com/xGonzalooo/Pendulum-Companion/releases/tag/bosses-v1.0.1-preview) |
 
-Este repositorio contiene únicamente esta documentación y archivos binarios publicados como Releases. **No incluye código fuente**, partidas, información personal, credenciales ni datos de la IA.
+El administrador **BOSSES** es una herramienta separada y no es necesaria para la crianza normal del Digimon.
 
-## Actualizaciones dentro del juego
+## Cómo actualizar
 
-Las versiones compatibles de Digimon Pendulum PC pueden buscar y descargar actualizaciones de este repositorio. La instalación necesita confirmación del jugador y no se inicia durante un combate activo.
+1. Conserva un respaldo de tus partidas.
+2. Si ejecutas una versión anterior a **0.61.0**, descarga manualmente el EXE actualizado una vez, porque el reinicio del actualizador antiguo puede fallar.
+3. A partir de la **0.61.0**, abre **Configuración → Actualizaciones**, elige **Preview** y utiliza **Buscar, Descargar e Instalar y reiniciar** cuando aparezca una nueva versión.
 
-El programa y sus personajes son una creación fan no oficial. Digimon pertenece a sus respectivos titulares.
+Las descargas se verifican por **SHA-256** antes de instalarse. Los nuevos ejecutables se publicarán en [GitHub Releases](https://github.com/xGonzalooo/Pendulum-PC-Update/releases).
+
+Proyecto fan no oficial. Digimon y sus personajes pertenecen a sus respectivos titulares.
